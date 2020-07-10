@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=TeleSena
+comment1.params=conjuntoDeNumeros1\ conjuntoDeNumeros2
+comment1.target=TeleSena(int[],\ int[])
+comment2.params=
+comment2.target=int\ getNumerosSorteadosConjunto1()
+comment3.params=
+comment3.target=void\ incrementaNumerosSorteadosConjunto1()
+comment4.params=
+comment4.target=int\ getNumerosSorteadosConjunto2()
+comment5.params=
+comment5.target=void\ incrementaNumerosSorteadosConjunto2()
+comment6.params=
+comment6.target=void\ zeraNumerosSorteados()
+comment7.params=
+comment7.target=int[]\ getNumeroConjunto1()
+comment8.params=
+comment8.target=int[]\ getNumeroConjunto2()
+comment9.params=
+comment9.target=void\ imprimeTeleSena()
+numComments=10
